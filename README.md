@@ -2,7 +2,7 @@
 
 Um simples site de To-Do List (lista de tarefas) desenvolvido em PHP, com suporte a operações de **criar**, **ler**, **atualizar** e **deletar** (CRUD), utilizando MySQL para armazenamento dos dados.
 
-## 📸 Preview
+## 📸 Interface
 
 ![image](https://github.com/user-attachments/assets/23b87f0e-e1a5-40ac-9455-01e06bb79742)
 
