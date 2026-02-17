@@ -1,18 +1,18 @@
-# 📋 To-Do List em PHP
+# To-Do List em PHP
 
 Um simples site de To-Do List (lista de tarefas) desenvolvido em PHP, com suporte a operações de **criar**, **ler**, **atualizar** e **deletar** (CRUD), utilizando MySQL para armazenamento dos dados.
 
-## 📸 Interface
+## Interface
 
 ![image](https://github.com/user-attachments/assets/23b87f0e-e1a5-40ac-9455-01e06bb79742)
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- ✅ Adicionar novas tarefas  
-- 📝 Editar tarefas existentes  
-- 🗑️ Remover tarefas  
-- 📃 Listar todas as tarefas cadastradas  
-- 📌 Marcar tarefas como concluídas ou pendentes  
+- Adicionar novas tarefas  
+- Editar tarefas existentes  
+- Remover tarefas  
+- Listar todas as tarefas cadastradas  
+- Marcar tarefas como concluídas ou pendentes  
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -22,14 +22,14 @@ Um simples site de To-Do List (lista de tarefas) desenvolvido em PHP, com suport
 - Bootstrap (opcional para estilização)
 - PDO para conexão com o banco de dados
 
-## 📦 Requisitos
+## Requisitos
 
 - Servidor local (XAMPP)
 - PHP instalado
 - MySQL
 - Navegador web
 
-## ⚙️ Instalação
+## Instalação
 
 1. Clone este repositório:
    ```bash
@@ -61,7 +61,7 @@ Um simples site de To-Do List (lista de tarefas) desenvolvido em PHP, com suport
    http://localhost/todo-list-php/
    ```
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 todo-list-php/
@@ -83,11 +83,3 @@ todo-list-php/
 └── todolist.sql
 ```
 
-## ✍️ Autor
-
-Desenvolvido por Isabela Chiocheta  
-📧 Email: isabelachiocheta@gmail.com 
-
----
-
-📌 **Licença**: Este projeto está licenciado sob a [MIT License](LICENSE).
